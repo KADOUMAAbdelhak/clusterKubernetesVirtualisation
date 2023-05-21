@@ -9,3 +9,7 @@ Docker : Une plateforme permettant de créer, de déployer et d'exécuter des ap
 Minikube : Un outil permettant de créer et de gérer facilement un cluster Kubernetes local à des fins de développement et de test.
 Network : Les composants réseau nécessaires pour permettre la communication entre les différentes parties de l'application.
 React.js : Une bibliothèque JavaScript pour la création d'interfaces utilisateur interactives et réactives
+
+## Contributions
+
+Les contributions à ce projet sont les bienvenues. Si vous souhaitez apporter des améliorations, corriger des bugs ou proposer de nouvelles fonctionnalités, n'hésitez pas à soumettre une demande de fusion (pull request) avec une description détaillée des modifications apportées.
