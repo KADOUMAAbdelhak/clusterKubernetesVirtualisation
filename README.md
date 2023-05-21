@@ -13,3 +13,7 @@ React.js : Une bibliothèque JavaScript pour la création d'interfaces utilisate
 ## Contributions
 
 Les contributions à ce projet sont les bienvenues. Si vous souhaitez apporter des améliorations, corriger des bugs ou proposer de nouvelles fonctionnalités, n'hésitez pas à soumettre une demande de fusion (pull request) avec une description détaillée des modifications apportées.
+
+## Remarques
+
+Ce projet a été développé dans le cadre d'un projet scolaire et est fourni tel quel, sans aucune garantie. Veuillez utiliser et tester le code à vos propres risques.
